@@ -1,0 +1,10 @@
+torch
+torchvision
+tabulate
+overrides
+opencv_python
+numpy
+allennlp
+torchtext
+tqdm
+torch-geometric
